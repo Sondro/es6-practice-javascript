@@ -1,7 +1,7 @@
 /*
   In this case, we can omit 'inventory: inventory'
   because they're absolutely the same.
-  We can also use foo() {} instead of foo: function()
+  We can also use foo() {} instead of foo: function() {}
 */
 function createBookShop(inventory) {
   return {
